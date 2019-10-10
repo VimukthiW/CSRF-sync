@@ -15,4 +15,4 @@ Login credentials
 Username :admin 
 Password: admin
 
-For Detailed Explanation - 
+For Detailed Explanation - https://cyb3rlk.blogspot.com/2019/10/cross-site-request-forgery-protection.html
