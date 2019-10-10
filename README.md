@@ -13,6 +13,7 @@ Open up the browser and type the url: http://localhost/CSRF-sync
 Login credentials
 
 Username :admin 
+
 Password: admin
 
 For Detailed Explanation - https://cyb3rlk.blogspot.com/2019/10/cross-site-request-forgery-protection.html
