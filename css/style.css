@@ -193,7 +193,7 @@ input[type=password]:hover:not([disabled]),
 input[type=password]:focus, 
 label:hover ~ input[type=text], 
 label:hover ~ input[type=password] {
-  background: #27292c;
+  background: #66ff66;
 }
 
 .p-container {
