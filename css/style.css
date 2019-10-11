@@ -191,8 +191,11 @@ input[type=text]:hover:not([disabled]),
 input[type=text]:focus, 
 input[type=password]:hover:not([disabled]), 
 input[type=password]:focus, 
+input[type=email]:hover:not([disabled]), 
+input[type=email]:focus,
 label:hover ~ input[type=text], 
-label:hover ~ input[type=password] {
+label:hover ~ input[type=password]
+label:hover ~ input[type=email]{
   background: #66ff66;
 }
 
